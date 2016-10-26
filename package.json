@@ -1,0 +1,17 @@
+{
+  "name": "regex-adventure",
+  "version": "1.0.0",
+  "description": "My resolutions for regex-adventure educational workshop.",
+  "dependencies": {
+    "marked": "^0.3.6"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hmschreiner/regex-adventure.git"
+  },
+  "author": "Henrique Schreiner <hms.sud@gmail.com>",
+  "bugs": {
+    "url": "https://github.com/hmschreiner/regex-adventure/issues"
+  },
+  "homepage": "https://github.com/hmschreiner/regex-adventure#readme"
+}
